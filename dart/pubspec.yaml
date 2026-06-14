@@ -1,0 +1,11 @@
+name: garudadidada
+description: Tiny zero-dependency helpers to humanize values - byte sizes, durations, English ordinals, and pluralization.
+version: 1.0.0
+homepage: https://github.com/garudadidada/garudadidadaa
+repository: https://github.com/garudadidada/garudadidadaa
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0

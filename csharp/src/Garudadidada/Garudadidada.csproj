@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+
+    <PackageId>Garudadidada</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>garudadidada</Authors>
+    <Description>Tiny zero-dependency helpers to humanize values: bytes, durations, ordinals, pluralization.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>humanize;format;bytes;duration;ordinal;pluralize</PackageTags>
+    <RepositoryUrl>https://github.com/garudadidada/garudadidadaa</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/garudadidada/garudadidadaa</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
+</Project>
